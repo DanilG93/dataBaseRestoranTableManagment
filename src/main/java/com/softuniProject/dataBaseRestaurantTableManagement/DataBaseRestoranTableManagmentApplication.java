@@ -1,4 +1,4 @@
-package com.softuniProject.dataBaseRestoranTableManagment;
+package com.softuniProject.dataBaseRestaurantTableManagement;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
